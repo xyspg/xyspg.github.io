@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'xyspg 的小窝',
   tagline: '美味しいは嬉しいです！',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://github.com/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -23,8 +23,8 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'zh-Hans',
-    locales: ['zh','en'],
+    defaultLocale: 'zh',
+    locales: ['zh'],
   },
 
   presets: [
@@ -59,8 +59,8 @@ const config = {
       navbar: {
         title: 'xyspg 的小窝',
         logo: {
-          alt: 'logo',
-          src: 'img/logo.png',
+          alt: '',
+          src: 'https://s2.loli.net/2023/01/19/fijcVvR674bG5qQ.png',
         },
         items: [
           {
