@@ -5,7 +5,7 @@ authors: xyspg
 tags: []
 ---
 :::caution
-可能会持续更新（（
+别跟我抢（
 :::
 ![](https://raw.githubusercontent.com/xyspg/Nekosearch/main/src/static/ATRI.jpg)
 ![](https://raw.githubusercontent.com/xyspg/Nekosearch/main/src/static/kakusatou.jpeg)
