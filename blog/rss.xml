@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
         <title>xyspg 的小窝 Blog</title>
-        <link>https://github.com/blog</link>
+        <link>https://xyspg.github.io/blog</link>
         <description>xyspg 的小窝 Blog</description>
         <lastBuildDate>Thu, 19 Jan 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
@@ -10,7 +10,7 @@
         <language>zh</language>
         <item>
             <title><![CDATA[My Waifus]]></title>
-            <link>https://github.com/blog/2023/01/19/mywaifu/mywaifu</link>
+            <link>https://xyspg.github.io/blog/2023/01/19/mywaifu/mywaifu</link>
             <guid>/2023/01/19/mywaifu/mywaifu</guid>
             <pubDate>Thu, 19 Jan 2023 00:00:00 GMT</pubDate>
             <description><![CDATA[别跟我抢（]]></description>

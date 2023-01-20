@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://github.com/blog</id>
+    <id>https://xyspg.github.io/blog</id>
     <title>xyspg 的小窝 Blog</title>
     <updated>2023-01-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://github.com/blog"/>
+    <link rel="alternate" href="https://xyspg.github.io/blog"/>
     <subtitle>xyspg 的小窝 Blog</subtitle>
-    <icon>https://github.com/img/logo.png</icon>
+    <icon>https://xyspg.github.io/img/logo.png</icon>
     <entry>
         <title type="html"><![CDATA[My Waifus]]></title>
         <id>/2023/01/19/mywaifu/mywaifu</id>
-        <link href="https://github.com/blog/2023/01/19/mywaifu/mywaifu"/>
+        <link href="https://xyspg.github.io/blog/2023/01/19/mywaifu/mywaifu"/>
         <updated>2023-01-19T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[别跟我抢（]]></summary>
         <content type="html"><![CDATA[<div class="theme-admonition theme-admonition-caution alert alert--warning admonition_LlT9"><div class="admonitionHeading_tbUL"><span class="admonitionIcon_kALy"><svg viewBox="0 0 16 16"><path fill-rule="evenodd" d="M8.893 1.5c-.183-.31-.52-.5-.887-.5s-.703.19-.886.5L.138 13.499a.98.98 0 0 0 0 1.001c.193.31.53.501.886.501h13.964c.367 0 .704-.19.877-.5a1.03 1.03 0 0 0 .01-1.002L8.893 1.5zm.133 11.497H6.987v-2.003h2.039v2.003zm0-3.004H6.987V5.987h2.039v4.006z"></path></svg></span>警告</div><div class="admonitionContent_S0QG"><p>别跟我抢（</p></div></div><p><img loading="lazy" src="https://raw.githubusercontent.com/xyspg/Nekosearch/main/src/static/ATRI.jpg" class="img_ev3q">
