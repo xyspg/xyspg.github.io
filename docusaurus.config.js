@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/xyspg',
+            'https://github.com/xyspg/xyspg/blob/main',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/xyspg/xyspg/blob/main',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -59,7 +59,7 @@ const config = {
       navbar: {
         title: 'xyspg 的小窝',
         logo: {
-          alt: '',
+          alt: '😶‍🌫️',
           src: 'https://s2.loli.net/2023/01/19/fijcVvR674bG5qQ.png',
         },
         items: [
