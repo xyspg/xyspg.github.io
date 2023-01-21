@@ -12,7 +12,7 @@ const config = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/logo.png',
+  favicon: 'img/pf.jpeg',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
@@ -59,8 +59,8 @@ const config = {
       navbar: {
         title: 'xyspg 的小窝',
         logo: {
-          alt: '😶‍🌫️',
-          src: 'https://s2.loli.net/2023/01/19/fijcVvR674bG5qQ.png',
+          alt: '',
+          src: 'img/pf.jpeg',
         },
         items: [
           {

@@ -1,7 +1,8 @@
 ---
 title: 回顾2022：URL自动补全A-Z
 authors: xyspg
-tags: [个人,杂谈]
+tags: [个人]
+description: 从浏览器地址栏中的URL自动补全功能来回顾一下2022
 ---
 
 ![](CleanShot%202023-01-21%20at%2014.50.31@2x.png)
@@ -22,7 +23,7 @@ ATRI的官网🤤，今年宣布动漫化了
 
 ## B
 [beta.reactjs.org](https://beta.reactjs.org/)  
-React 新出的文档。~~比起之前官网上的答辩，终于阳间了很多~~ 新文档摒弃了过时的 React Class Component，而是用了 React Hooks。并且还添加了一些交互性的例子和diagram，方便理解（虽然还是看着挺头大的
+React 新出的文档。~~比起之前官网上的答辩，终于阳间了很多~~ 新文档摒弃了过时的 React Class Component，用了 React Hooks。并且还添加了一些交互性的例子和diagram，方便理解（虽然还是看着挺头大的
   
 [buff.163.com](https://buff.163.com)  
 ~~理财用的~~ CSGO饰品交易平台
@@ -115,7 +116,8 @@ React官网，当时就嗯看答辩
 ## S
 [sli.dev](https://sli.dev/)  
 Slidev，基于Vue的一个用来做PPT的库。使用了Markdown语法，对于开发者还是挺友好的。  
-因为它本身就是一个Vue应用程序，所以你甚至可以在PPT里面插入 Vue 组件。适合做pre的时候装逼  
+因为它本身就是一个Vue应用程序，所以你甚至可以在PPT里面插入 Vue 组件。  
+~~适合做pre的时候装逼~~  
 
 [sparknotes.com](https://www.sparknotes.com/)  
 提供了大量的文学笔记、课程笔记、课程概述、试题解答、学习指南和其他学习资源。上面有大量英文小说的summary和analysis，懂得都懂  
@@ -156,6 +158,7 @@ Chrome DevRel 出品的一个Web技术网站。有一些简单的前端课程可
 ## Y
 [youtube.com](https://youtube.com/)  
 全球最大的视频平台。  
+
 [yuzu-soft.com](https://www.yuzu-soft.com)  
 柚子厨真恶心。  
 ## Z
