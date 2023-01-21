@@ -19,19 +19,19 @@
         
         ![%E5%AD%A6%E4%B9%A0%206ae6f3e10ffe476891880857e42168ec/Untitled.png](src/Untitled.png)
         
-        > 商标™：option + 2 （英文模式下）
-        不等号≠：option + ＝
-        注册商标®：option + R
-        圆周率π（大写为∏）：option + P
-        版权©：option + G
-        度°：option + K
-        约等于≈：option + X
-        小于或等于≤：option + ,
-        大于或等于≥：option + .
-        除号÷：option + /
-        美分¢： option + 4 （英文模式下）
-        英镑￡：option + 3
-        欧元€：shift + option + 2
+        > 商标™：option + 2 （英文模式下）  
+        不等号≠：option + ＝  
+        注册商标®：option + R  
+        圆周率π（大写为∏）：option + P  
+        版权©：option + G  
+        度°：option + K  
+        约等于≈：option + X  
+        小于或等于≤：option + ,  
+        大于或等于≥：option + .  
+        除号÷：option + /  
+        美分¢： option + 4 （英文模式下）  
+        英镑￡：option + 3  
+        欧元€：shift + option + 2  
         > 
         - command 减选
         - 点击文件回车修改文件名
