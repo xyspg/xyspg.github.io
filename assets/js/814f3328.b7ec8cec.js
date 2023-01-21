@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u4e24\u7bc7\u5199\u7684\u8fd8\u8bf4\u5f97\u8fc7\u53bb\u7684\u6258\u798f\u5199\u4f5c","permalink":"/blog/2023/01/21/toefl-writing"},{"title":"My Waifus","permalink":"/blog/2023/01/19/mywaifu/mywaifu"}]}')}}]);
