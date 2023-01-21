@@ -40,5 +40,7 @@
 .hero__title, .hero__subtitle {
   color: black;
   font-family: 'M PLUS 1p', sans-serif;
-
+}
+.hero__title {
+  font-size: 2.8rem;
 }
