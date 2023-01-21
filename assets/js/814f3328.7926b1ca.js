@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"My Waifus","permalink":"/blog/2023/01/19/mywaifu/mywaifu"}]}')}}]);
