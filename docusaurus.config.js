@@ -79,32 +79,23 @@ const config = {
         ],
       },
       footer: {
-        style: 'dark',
-        /* links: [
+        style: 'light',
+        links: [
           {
             title: '备忘录',
             items: [
               {
-                label: ' ',
-                to: '/docs/intro',
-              },
-            ],
-          },
-          {
-            title: 'Community',
-            items: [
-              {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: '视频相关',
+                to: '/docs/category/视频相关',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Mac',
+                to: '/docs/Mac/macOS',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
-              },
+                label: 'Miscellaneous',
+                to: '/docs/乱七八糟/shell'
+              }
             ],
           },
           {
@@ -115,12 +106,16 @@ const config = {
                 to: '/blog',
               },
               {
+                label: 'Steam',
+                href: 'https://steamcommunity.com/id/xyspg/'
+              },
+              {
                 label: 'GitHub',
                 href: 'https://github.com/facebook/docusaurus',
               },
             ],
           },
-        ],*/
+        ],
         copyright: `Copyright © ${new Date().getFullYear()} xyspg. Built with Docusaurus.`,
       },
       prism: {

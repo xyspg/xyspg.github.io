@@ -1,3 +1,6 @@
+---
+sidebar_position: 1
+---
 # macOS
 ## 界面
 
@@ -20,7 +23,7 @@
         ![%E5%AD%A6%E4%B9%A0%206ae6f3e10ffe476891880857e42168ec/Untitled.png](src/Untitled.png)
         
         > 商标™：option + 2 （英文模式下）  
-        不等号≠：option + ＝  
+        不等号≠：option + ＝  e
         注册商标®：option + R  
         圆周率π（大写为∏）：option + P  
         版权©：option + G  

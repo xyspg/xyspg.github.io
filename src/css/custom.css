@@ -5,6 +5,8 @@
  */
 
 /* You can override the default Infima variables here. */
+@import url('https://fonts.googleapis.com/css2?family=M+PLUS+1p&display=swap');
+
 :root {
   --ifm-color-primary: #804249;
   --ifm-color-primary-dark: #733b42;
@@ -24,4 +26,19 @@
   --ifm-color-primary-light: #ffb1ba;
   --ifm-color-primary-lighter: #ffc5cb;
   --ifm-color-primary-lightest: #ffffff;
+}
+
+.footer__copyright {
+  text-align: left;
+  color: #444444;
+}
+
+.hero {
+  background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
+}
+
+.hero__title, .hero__subtitle {
+  color: black;
+  font-family: 'M PLUS 1p', sans-serif;
+
 }
