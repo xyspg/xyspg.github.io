@@ -67,6 +67,12 @@
 <!-- -->柚子厨真恶心。  </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="z">Z<a class="hash-link" href="#z" title="标题的直接链接">​</a></h2><p><a href="https://www.zhihu.com/" target="_blank" rel="noopener noreferrer">zhihu.com</a><br>
 <!-- -->知乎。相对来说还算是一个氛围还可以的社区了  </p><p><a href="https://z-lib.org" target="_blank" rel="noopener noreferrer">z-lib.org</a><br>
 <!-- -->Z-library，虽然已经挂了但还是有办法访问的</p>]]></content>
+        <author>
+            <name>xyspg</name>
+            <uri>https://github.com/xyspg</uri>
+        </author>
+        <category label="个人" term="个人"/>
+        <category label="杂谈" term="杂谈"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[两篇写的还说得过去的托福写作]]></title>
@@ -96,6 +102,7 @@
             <name>xyspg</name>
             <uri>https://github.com/xyspg</uri>
         </author>
+        <category label="个人" term="个人"/>
         <category label="waifu" term="waifu"/>
     </entry>
 </feed>
