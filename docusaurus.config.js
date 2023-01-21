@@ -31,6 +31,7 @@ const config = {
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
+
       ({
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
@@ -49,15 +50,13 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
-      '@docusaurus/preset-classic',
-      {
         gtag: {
           trackingID: 'G-73TGEVP49X',
           anonymizeIP: true,
         },
-      },
+      }),
     ],
+
   ],
 
   themeConfig:
