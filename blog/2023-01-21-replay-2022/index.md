@@ -8,8 +8,8 @@
 [apple.com.cn](https://www.apple.com.cn/)  
 作为一个苹果全家桶用户，Apple 官网还是经常看的（就算是为了学习一下页面和交互设计
   
-[act-go.com](act-go.com)  
-一个ACT模考网站，提供的功能相对完善。目前国内在ACT这方面似乎没有像[新东方托福](tpo.xdf.cn)和小站托福这种非常成熟的练习+模考平台，act-go 虽然只有模考功能，但是也已经很不错了。  
+[act-go.com](http://www.act-go.com/)  
+一个ACT模考网站，提供的功能相对完善。目前国内在ACT这方面似乎没有像[新东方托福](https://tpo.xdf.cn)和小站托福这种非常成熟的练习+模考平台，act-go 虽然只有模考功能，但是也已经很不错了。  
   
 [atri-mdm.com](https://atri-mdm.com/)  
 ATRI的官网🤤，今年宣布动漫化了  
@@ -146,7 +146,7 @@ VPS提供商。今年因为成为了重度Telegram用户，开了一台2.5刀的
 Chrome DevRel 出品的一个Web技术网站。有一些简单的前端课程可以看  
 ![](CleanShot%202023-01-21%20at%2016.10.26@2x.png)  
 ## X
-[xyspg.github.io](xyspg.github.io)  
+[xyspg.github.io](https://xyspg.github.io)  
 你现在在看的网站就是  
 ## Y
 [youtube.com](https://youtube.com/)  
