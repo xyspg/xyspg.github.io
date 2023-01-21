@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xyspg.github.io/blog"/>
     <subtitle>xyspg 的小窝 Blog</subtitle>
-    <icon>https://xyspg.github.io/img/logo.png</icon>
+    <icon>https://xyspg.github.io/img/pf.jpeg</icon>
     <entry>
         <title type="html"><![CDATA[回顾2022：URL自动补全A-Z]]></title>
         <id>/2023/01/21/replay-2022</id>
@@ -19,7 +19,7 @@
 <!-- -->一个ACT模考网站，提供的功能相对完善。目前国内在ACT这方面似乎没有像<a href="https://tpo.xdf.cn" target="_blank" rel="noopener noreferrer">新东方托福</a>和小站托福这种非常成熟的练习+模考平台，act-go 虽然只有模考功能，但是也已经很不错了。  </p><p><a href="https://atri-mdm.com/" target="_blank" rel="noopener noreferrer">atri-mdm.com</a><br>
 <!-- -->ATRI的官网🤤，今年宣布动漫化了<br>
 <img loading="lazy" alt="img.png" src="/assets/images/img-17c62363abb91c582b02e26bf31caf3e.png" width="1103" height="622" class="img_ev3q"></p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="b">B<a class="hash-link" href="#b" title="标题的直接链接">​</a></h2><p><a href="https://beta.reactjs.org/" target="_blank" rel="noopener noreferrer">beta.reactjs.org</a><br>
-<!-- -->React 新出的文档。<del>比起之前官网上的答辩，终于阳间了很多</del> 新文档摒弃了过时的 React Class Component，而是用了 React Hooks。并且还添加了一些交互性的例子和diagram，方便理解（虽然还是看着挺头大的</p><p><a href="https://buff.163.com" target="_blank" rel="noopener noreferrer">buff.163.com</a><br>
+<!-- -->React 新出的文档。<del>比起之前官网上的答辩，终于阳间了很多</del> 新文档摒弃了过时的 React Class Component，用了 React Hooks。并且还添加了一些交互性的例子和diagram，方便理解（虽然还是看着挺头大的</p><p><a href="https://buff.163.com" target="_blank" rel="noopener noreferrer">buff.163.com</a><br>
 <del>理财用的</del> CSGO饰品交易平台</p><p><a href="https://www.baidu.com/" target="_blank" rel="noopener noreferrer">baidu.com</a><br>
 <!-- -->用来测试网络连通性</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="c">C<a class="hash-link" href="#c" title="标题的直接链接">​</a></h2><p><a href="https://chat.openai.com/" target="_blank" rel="noopener noreferrer">chat.openai.com</a><br>
 <!-- -->ChatGPT yyds!  </p><p><a href="https://chalk-c3.seiue.com/" target="_blank" rel="noopener noreferrer">chalk-c3.seiue.com</a><br>
@@ -49,7 +49,8 @@
 <!-- -->React官网，当时就嗯看答辩  </p><p><a href="https://www.rtings.com/" target="_blank" rel="noopener noreferrer">rtings.com</a><br>
 <!-- -->国外的评测网站，涵盖耳机、显示器、鼠标键盘等产品评测</p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="s">S<a class="hash-link" href="#s" title="标题的直接链接">​</a></h2><p><a href="https://sli.dev/" target="_blank" rel="noopener noreferrer">sli.dev</a><br>
 <!-- -->Slidev，基于Vue的一个用来做PPT的库。使用了Markdown语法，对于开发者还是挺友好的。<br>
-<!-- -->因为它本身就是一个Vue应用程序，所以你甚至可以在PPT里面插入 Vue 组件。适合做pre的时候装逼  </p><p><a href="https://www.sparknotes.com/" target="_blank" rel="noopener noreferrer">sparknotes.com</a><br>
+<!-- -->因为它本身就是一个Vue应用程序，所以你甚至可以在PPT里面插入 Vue 组件。<br>
+<del>适合做pre的时候装逼</del>  </p><p><a href="https://www.sparknotes.com/" target="_blank" rel="noopener noreferrer">sparknotes.com</a><br>
 <!-- -->提供了大量的文学笔记、课程笔记、课程概述、试题解答、学习指南和其他学习资源。上面有大量英文小说的summary和analysis，懂得都懂<br>
 <!-- -->同样的还有 <a href="https://www.litcharts.com/" target="_blank" rel="noopener noreferrer" title="litcharts">litcharts</a>  </p><p><a href="https://store.steampowered.com/" target="_blank" rel="noopener noreferrer">store.steampowered.com</a>  </p><p>（  </p><p><img loading="lazy" src="/assets/images/CleanShot 2023-01-21 at 15.48.26@2x-223d0ae2b4208bb50181d56e43b08a8c.png" width="2812" height="1848" class="img_ev3q">  </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="t">T<a class="hash-link" href="#t" title="标题的直接链接">​</a></h2><p><a href="https://t.bilibili.com/" target="_blank" rel="noopener noreferrer">t.bilibili.com</a><br>
 <!-- -->在电脑端看B站一般就直接去动态看了。首页一般没啥好看的 </p><p><a href="https://teams.microsoft.com/" target="_blank" rel="noopener noreferrer">teams.microsoft.com</a><br>
@@ -62,8 +63,7 @@
 <!-- -->Chrome DevRel 出品的一个Web技术网站。有一些简单的前端课程可以看<br>
 <img loading="lazy" src="/assets/images/CleanShot 2023-01-21 at 16.10.26@2x-7d81f7d3fc56823a422dfa57db9c30c3.png" width="2658" height="1756" class="img_ev3q">  </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="x">X<a class="hash-link" href="#x" title="标题的直接链接">​</a></h2><p><a href="https://xyspg.github.io" target="_blank" rel="noopener noreferrer">xyspg.github.io</a><br>
 <!-- -->你现在在看的网站就是  </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="y">Y<a class="hash-link" href="#y" title="标题的直接链接">​</a></h2><p><a href="https://youtube.com/" target="_blank" rel="noopener noreferrer">youtube.com</a><br>
-<!-- -->全球最大的视频平台。<br>
-<a href="https://www.yuzu-soft.com" target="_blank" rel="noopener noreferrer">yuzu-soft.com</a><br>
+<!-- -->全球最大的视频平台。  </p><p><a href="https://www.yuzu-soft.com" target="_blank" rel="noopener noreferrer">yuzu-soft.com</a><br>
 <!-- -->柚子厨真恶心。  </p><h2 class="anchor anchorWithStickyNavbar_LWe7" id="z">Z<a class="hash-link" href="#z" title="标题的直接链接">​</a></h2><p><a href="https://www.zhihu.com/" target="_blank" rel="noopener noreferrer">zhihu.com</a><br>
 <!-- -->知乎。相对来说还算是一个氛围还可以的社区了  </p><p><a href="https://z-lib.org" target="_blank" rel="noopener noreferrer">z-lib.org</a><br>
 <!-- -->Z-library，虽然已经挂了但还是有办法访问的</p>]]></content>
@@ -72,7 +72,6 @@
             <uri>https://github.com/xyspg</uri>
         </author>
         <category label="个人" term="个人"/>
-        <category label="杂谈" term="杂谈"/>
     </entry>
     <entry>
         <title type="html"><![CDATA[两篇写的还说得过去的托福写作]]></title>
