@@ -10,7 +10,7 @@ const Login = () => {
     const [password, setPassword] = useState("");
     const [isLoggedIn, setIsLoggedIn] = useState(false);
     const [incorrectCount, setIncorrectCount] = useState(0);
-
+    
     const handleChange = (event) => {
         setPassword(event.target.value);
     };
