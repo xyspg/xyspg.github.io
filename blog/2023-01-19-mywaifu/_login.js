@@ -19,6 +19,8 @@ const Login = () => {
         event.preventDefault();
         if (MD5(password).toString() === hashedPassword || MD5(password).toString() === hashedPassword1) {
             setIsLoggedIn(true);
+            const img = document.querySelector("img[src='https://raw.githubusercontent.com/xyspg/Nekosearch/main/src/static/murasame.png']");
+            if(img) img.remove();
         }
         else {
             setIncorrectCount(incorrectCount + 1);
