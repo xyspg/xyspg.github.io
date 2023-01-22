@@ -9,7 +9,7 @@ export default function HomepageFeatures() {
     <section className={styles.features}>
       <div className="container">
         <div className="row">
-            <img className='img' src='https://raw.githubusercontent.com/xyspg/Nekosearch/main/src/static/kakusatou2.jpeg' alt='kakusatou'></img>
+            <img className='img' src='/img/kakusatou.png' alt='kakusatou'></img>
         </div>
       </div>
     </section>
