@@ -104,6 +104,15 @@ const config = {
             ],
           },
           {
+            title: '小工具',
+            items: [
+              {
+                label: '随机事件生成器',
+                to: '/tools/random/random',
+              },
+            ],
+          },
+          {
             title: 'More',
             items: [
               {
