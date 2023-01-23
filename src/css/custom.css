@@ -42,7 +42,7 @@
   font-family: 'M PLUS 1p', sans-serif;
 }
 .hero__title {
-  font-size: 2.8rem;
+  font-size: 2.7rem;
 }
 
 .random-main-content {
@@ -58,4 +58,10 @@
 .random-main {
   text-align: center;
   line-height: 3em;
+}
+
+.random-hero__title {
+  font-size: 2.5rem;
+  color: black;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
 }

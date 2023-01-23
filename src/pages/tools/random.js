@@ -19,7 +19,7 @@ function HomepageHeader() {
     return (
         <header className={clsx('hero hero--primary', styles.heroBanner)}>
             <div className="container">
-                <h1 className="hero__title">随机事件生成器</h1>
+                <h1 className="random-hero__title">随机事件生成器</h1>
                 <p className="hero__subtitle">bdfz专供版</p>
             </div>
         </header>
