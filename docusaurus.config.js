@@ -108,7 +108,7 @@ const config = {
             items: [
               {
                 label: '随机事件生成器',
-                to: '/tools/random/random',
+                to: '/tools/random',
               },
             ],
           },

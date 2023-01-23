@@ -54,3 +54,8 @@
 .random-body-content {
   font-size: 125%;
 }
+
+.random-main {
+  text-align: center;
+  line-height: 3em;
+}
