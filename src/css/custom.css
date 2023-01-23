@@ -53,6 +53,15 @@
 
 .random-body-content {
   font-size: 125%;
+  padding: 0 5em 0 5em;
+
+}
+@media only screen and (max-width: 600px) {
+  .random-body-content {
+    text-align: center;
+    font-size: 110%;
+    padding: 0 1em 0 1em;
+  }
 }
 
 .random-main {

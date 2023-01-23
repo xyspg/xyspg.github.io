@@ -62,6 +62,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
+        hideOnScroll: true,
         title: 'xyspg 的小窝',
         logo: {
           alt: '',
@@ -81,6 +82,17 @@ const config = {
             label: 'GitHub',
             position: 'right',
           },
+          {
+            type: 'dropdown',
+            label: '小工具',
+            position: 'left',
+            items: [
+              {
+                label: '随机事件生成器',
+                href: '/tools/random',
+              },
+            ],
+          }
         ],
       },
       footer: {
