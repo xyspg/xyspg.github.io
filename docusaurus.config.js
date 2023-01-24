@@ -78,11 +78,6 @@ const config = {
           },
           {to: '/blog', label: '博客', position: 'left'},
           {
-            href: 'https://github.com/xyspg',
-            label: 'GitHub',
-            position: 'right',
-          },
-          {
             type: 'dropdown',
             label: '小工具',
             position: 'left',
@@ -92,7 +87,12 @@ const config = {
                 href: '/tools/random',
               },
             ],
-          }
+          },
+          {
+            href: 'https://github.com/xyspg',
+            label: 'GitHub',
+            position: 'right',
+          },
         ],
       },
       footer: {
