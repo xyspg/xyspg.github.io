@@ -93,6 +93,10 @@ function App() {
   };
 
   const handleAddText = () => {
+    if (!inputText1 || !inputText2) {
+      alert("能不能都填上");
+      return;
+    }
     setTexts1((prevTexts) => [...prevTexts, inputText1]);
     setTexts2((prevTexts) => [...prevTexts, inputText2]);
     setInputText1("");
