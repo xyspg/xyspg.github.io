@@ -61,6 +61,14 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+      announcementBar: {
+        id: 'support_us',
+        content:
+            '美咕噜是我老婆 <a target="_blank" rel="noopener noreferrer" href="/blog/2023/01/29/Megulu">美咕噜为什么是神？</a>',
+        backgroundColor: '#fafbfc',
+        textColor: '#091E42',
+        isCloseable: false,
+      },
       navbar: {
         hideOnScroll: true,
         title: 'xyspg 的小窝',
