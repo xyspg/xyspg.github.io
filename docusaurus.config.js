@@ -16,7 +16,7 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'xyspg', // Usually your GitHub org/user name.
+  organizationName: 'xyspg', // Usually your GitHub org/username.
   projectName: 'xyspg', // Usually your repo name.
   trailingSlash: false,
   // Even if you don't use internalization, you can use this field to set useful
