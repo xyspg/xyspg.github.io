@@ -61,6 +61,7 @@ const config = {
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
+/*
       announcementBar: {
         id: 'support_us',
         content:
@@ -69,6 +70,8 @@ const config = {
         textColor: '#091E42',
         isCloseable: false,
       },
+
+ */
       navbar: {
         hideOnScroll: true,
         title: 'xyspg 的小窝',
