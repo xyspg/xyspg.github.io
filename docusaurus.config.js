@@ -97,6 +97,10 @@ const config = {
                 label: '随机事件生成器',
                 href: '/tools/random',
               },
+              {
+                label: 'AI搜题（GPT-3）',
+                href: 'https://gpt.xyspg.live'
+              }
             ],
           },
           {
@@ -133,6 +137,10 @@ const config = {
                 label: '随机事件生成器',
                 to: '/tools/random',
               },
+              {
+                label: 'AI搜题（GPT-3）',
+                href: 'https://gpt.xyspg.live'
+              }
             ],
           },
           {
