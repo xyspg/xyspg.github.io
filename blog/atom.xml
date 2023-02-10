@@ -2,11 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xyspg.github.io/blog</id>
     <title>xyspg 的小窝 Blog</title>
-    <updated>2023-01-29T00:00:00.000Z</updated>
+    <updated>2023-02-10T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xyspg.github.io/blog"/>
     <subtitle>xyspg 的小窝 Blog</subtitle>
     <icon>https://xyspg.github.io/img/pf.jpeg</icon>
+    <entry>
+        <title type="html"><![CDATA[一个基于 GPT-3 的拍照搜题工具]]></title>
+        <id>https://xyspg.github.io/blog/2023/02/10/2023-02-10-gpt-ocr/gpt-ocr</id>
+        <link href="https://xyspg.github.io/blog/2023/02/10/2023-02-10-gpt-ocr/gpt-ocr"/>
+        <updated>2023-02-10T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[一个使用 Teseeract OCR 和 GPT-3 的拍照搜题工具]]></summary>
+        <content type="html"><![CDATA[<p>一个使用 Teseeract OCR 和GPT-3的拍照搜题工具</p><p>众所周知，像作业帮、小猿搜题这些 app 通常只能搜索国内的题库，而面对国外的AP等英文题目则无法搜索 <del>拍什么题都会返回英语卷子</del>。<br>
+<!-- -->因此，我写了一个基于 GPT-3 (ChatGPT 是 GPT-3.5) 的<a href="https://gpt.xyspg.live/" target="_blank" rel="noopener noreferrer">拍照搜题工具</a>，因为使用的是AI语言模型，所以理论上什么题都可以搜。但是同样的准确性也十分有限，不同于传统搜题软件通过题库来匹配（这种方式的准确性是非常高的），这个工具的准确性取决于 GPT-3 的回答，而 「ChatGPT 有时会写出看似合理但不正确或荒谬的答案<sup id="fnref-1-839264"><a href="#fn-1-839264" class="footnote-ref">1</a></sup>」，所以请不要把这个工具当作传统搜题软件来使用，在得到回答的时候请务必仔细辨别。<br>
+<!-- -->目前这个工具使用的是开源的 Teseeract.js OCR 库来进行 OCR 识别。实际测试下来识别速度还不是很理想，所以未来可能会考虑更换 Google Vision API 或者 Azure Computer Vision API 等。</p><div class="footnotes"><hr><ol><li id="fn-1-839264"><em>ChatGPT sometimes writes plausible-sounding but incorrect or nonsensical answers. Fixing this issue is challenging, as: (1) during RL training, there’s currently no source of truth; (2) training the model to be more cautious causes it to decline questions that it can answer correctly; and (3) supervised training misleads the model because the ideal answer depends on what the model knows, rather than what the human demonstrator knows.</em> <a href="https://openai.com/blog/chatgpt/" target="_blank" rel="noopener noreferrer">https://openai.com/blog/chatgpt/</a><a href="#fnref-1-839264" class="footnote-backref">↩</a></li></ol></div>]]></content>
+        <author>
+            <name>xyspg</name>
+            <uri>https://github.com/xyspg</uri>
+        </author>
+        <category label="工具" term="工具"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[因幡めぐる为什么是神？]]></title>
         <id>https://xyspg.github.io/blog/2023/01/29/Megulu</id>
@@ -113,6 +128,10 @@
         <author>
             <name>xyspg</name>
             <uri>https://github.com/xyspg</uri>
+        </author>
+        <author>
+            <name>keaidedoubi</name>
+            <uri>https://github.com/keaidedoubi</uri>
         </author>
         <category label="个人" term="个人"/>
         <category label="waifu" term="waifu"/>
