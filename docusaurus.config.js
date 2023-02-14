@@ -100,6 +100,10 @@ const config = {
               {
                 label: 'AI搜题（GPT-3）',
                 href: 'https://gpt.xyspg.live'
+              },
+              {
+                label: 'ELA Annotator',
+                href: 'https://annotator.xyspg.live'
               }
             ],
           },
@@ -140,6 +144,10 @@ const config = {
               {
                 label: 'AI搜题（GPT-3）',
                 href: 'https://gpt.xyspg.live'
+              },
+              {
+                label: 'ELA Annotator',
+                href: 'https://annotator.xyspg.live'
               }
             ],
           },
