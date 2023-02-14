@@ -26,7 +26,12 @@ const config = {
     defaultLocale: 'zh',
     locales: ['zh']
   },
-
+  scripts: [
+    {
+      src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js',
+      async: true,
+    },
+  ],
   presets: [
     [
       'classic',
