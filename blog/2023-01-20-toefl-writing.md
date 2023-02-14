@@ -2,6 +2,8 @@
 title: 两篇写的还说得过去的托福写作
 authors: xyspg
 tags: [TOEFL, 学习]
+enableComments: true
+
 ---
 随便传点什么东西  
 虽然说还是写的不咋地
