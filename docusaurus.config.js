@@ -99,16 +99,20 @@ const config = {
             position: 'left',
             items: [
               {
-                label: '随机事件生成器',
-                href: '/tools/random',
-              },
-              {
                 label: 'AI搜题（GPT-3）',
                 href: 'https://gpt.xyspg.live'
               },
               {
                 label: 'ELA Annotator',
                 href: 'https://annotator.xyspg.live'
+              },
+              {
+                label: '随机事件生成器',
+                href: '/tools/random',
+              },
+              {
+                label: '特殊字符转换器',
+                href: '/tools/converter'
               }
             ],
           },
@@ -143,16 +147,20 @@ const config = {
             title: '小工具',
             items: [
               {
-                label: '随机事件生成器',
-                to: '/tools/random',
-              },
-              {
                 label: 'AI搜题（GPT-3）',
                 href: 'https://gpt.xyspg.live'
               },
               {
                 label: 'ELA Annotator',
                 href: 'https://annotator.xyspg.live'
+              },
+              {
+                label: '随机事件生成器',
+                to: '/tools/random',
+              },
+              {
+                label: '特殊字符转换器',
+                href: '/tools/converter'
               }
             ],
           },

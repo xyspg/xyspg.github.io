@@ -1,6 +1,6 @@
 import Link from '@docusaurus/Link';
 import Layout from '@theme/Layout';
-import styles from '../index.module.css';
+import styles from '@site/src/pages/index.module.css';
 import clsx from "clsx";
 import React, { useState, createContext, useEffect } from "react";
 
