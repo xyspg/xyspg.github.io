@@ -55,6 +55,7 @@ const SpecialCharToLetter = () => {
         let outputValue = "";
         for (let i = 0; i < value.length; i++) {
             const char = value[i];
+            console.log(value);
             if (char === " ") {
                 outputValue += "&nbsp;";
             } else
@@ -67,16 +68,32 @@ const SpecialCharToLetter = () => {
     };
 
     return (
-        <div className='converter-container'>
+        <div
+        style={{
+            display: "flex",
+            flexDirection: "column",
+            alignItems: "center",
+            justifyContent: "center",
+            width: "40vw",
+            margin: "2rem auto",
+            height: "100%",
+        }}
+        >
             <TextArea
-                style={{ width: '40vw', margin:'5rem 2rem'}}
                 value={inputValue}
                 onChange={handleInputChange}
                 placeholder=""
                 autoSize={{ minRows: 3, maxRows: 5 }}
             />
-            <Card style={{ width: '40vw', margin:'5rem 2rem'}}>
-            <span dangerouslySetInnerHTML={{ __html: outputValue }} />
+            <Card
+            style={{
+                width: "100%",
+                marginTop: "1rem",
+                padding: "1rem",
+
+            }}
+            >
+            <div dangerouslySetInnerHTML={{ __html: outputValue }} />
             </Card>
         </div>
     );
@@ -84,8 +101,8 @@ const SpecialCharToLetter = () => {
 export default function Home() {
     return (
         <Layout>
+            <HomepageHeader />
             <main>
-                <HomepageHeader />
                 <SpecialCharToLetter />
             </main>
         </Layout>
