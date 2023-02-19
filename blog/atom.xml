@@ -2,11 +2,24 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://xyspg.github.io/blog</id>
     <title>xyspg 的小窝 Blog</title>
-    <updated>2023-02-14T00:00:00.000Z</updated>
+    <updated>2023-02-19T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://xyspg.github.io/blog"/>
     <subtitle>xyspg 的小窝 Blog</subtitle>
     <icon>https://xyspg.github.io/img/pf.jpeg</icon>
+    <entry>
+        <title type="html"><![CDATA[Upgrading to .moe Domain]]></title>
+        <id>https://xyspg.github.io/blog/2023/02/19/moe/Upgrading to .moe Domain</id>
+        <link href="https://xyspg.github.io/blog/2023/02/19/moe/Upgrading to .moe Domain"/>
+        <updated>2023-02-19T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Moe TLD logo.png]]></summary>
+        <content type="html"><![CDATA[<p><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/zh/thumb/b/b2/Moe_TLD_logo.png/220px-Moe_TLD_logo.png" alt="Moe TLD logo.png" class="img_ev3q"></p><p>I'm happy to announce that my website is now featuring a new .moe domain name! </p><p><img loading="lazy" alt="CleanShot 2023-02-19 at 15.45.15@2x" src="/assets/images/CleanShot 2023-02-19 at 15.45.15@2x-99de173b8b8a7bcbceb8321f7b139650.png" width="2116" height="178" class="img_ev3q"></p><p>The .moe domain name is a unique and interesting choice. It is a top-level domain that was created specifically for fans of anime, manga, and Japanese pop culture. In Japan, the word "moe" (萌え) is used to describe a type of fandom that is characterized by an intense affection for fictional characters, often in a cute or romantic way.</p><p>I've always been a fan of this subculture, and I'm thrilled to have a domain name that represents that part of my identity. The .moe domain name is also unique and recognizable, which can help me connect with other fans who share my interests.</p><p>By using this domain name, I'm making it clear to my readers that besides technology, my blog is also focused on topics related to anime, manga, and Japanese pop culture. I'm excited to see where this new domain takes me. </p><p>Meanwhile, I want to let you know that you can still access my site via the <a href="https://xyspg.live" target="_blank" rel="noopener noreferrer">.live</a> domain, but it might no longer be supported once it expires.</p>]]></content>
+        <author>
+            <name>xyspg</name>
+            <uri>https://github.com/xyspg</uri>
+        </author>
+        <category label="个人" term="个人"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT Plus 初体验]]></title>
         <id>https://xyspg.github.io/blog/2023/02/14/2023-02-14-ChatGPTPlus/</id>
