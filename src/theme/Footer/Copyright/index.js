@@ -8,6 +8,8 @@ export default function FooterCopyright({copyright}) {
       // eslint-disable-next-line react/no-danger
       dangerouslySetInnerHTML={{__html: copyright}}
     />
+        <div className="footer__copyright">
+        </div>
       </>
   );
 }

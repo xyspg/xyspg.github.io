@@ -82,6 +82,7 @@ const config = {
           src: 'img/pf.jpeg',
         },
         items: [
+          {to: '/blog', label: '博客', position: 'left'},
           {
             type: 'doc',
             docId: 'intro',
@@ -89,7 +90,6 @@ const config = {
             label: '备忘录',
 
           },
-          {to: '/blog', label: '博客', position: 'left'},
           {
             type: 'dropdown',
             label: '小工具',
@@ -179,7 +179,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} xyspg. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} xyspg. Built with Docusaurus. <br>`,
       },
       prism: {
         theme: lightCodeTheme,
