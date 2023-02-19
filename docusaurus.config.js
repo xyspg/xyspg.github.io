@@ -71,7 +71,7 @@ const config = {
         content:'xyspg 的小窝启用 <a target="_blank" rel="noopener noreferrer" href="blog/2023/02/19/moe/Upgrading%20to%20.moe%20Domain">.moe</a> 域名啦(o^^o)',
         backgroundColor: '#fafbfc',
         textColor: '#091E42',
-        isCloseable: false,
+        isCloseable: true,
       },
 
       navbar: {

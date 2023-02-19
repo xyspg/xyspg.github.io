@@ -19,7 +19,7 @@ I've always been a fan of this subculture, and I'm thrilled to have a domain nam
 
 By using this domain name, I'm making it clear to my readers that besides technology, my blog is also focused on topics related to anime, manga, and Japanese pop culture. I'm excited to see where this new domain takes me. 
 
-Meanwhile, I want to let you know that you can still access my site via the [.live](xyspg.live) domain, but it might no longer be supported once it expires.
+Meanwhile, I want to let you know that you can still access my site via the [.live](https://xyspg.live) domain, but it might no longer be supported once it expires.
 
 
 
