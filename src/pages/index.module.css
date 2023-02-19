@@ -2,6 +2,24 @@
  * CSS files with the .module.css suffix will be treated as CSS modules
  * and scoped locally.
  */
+:root {
+  /*
+  See css var + hsl color palette technique:
+  https://blog.maximeheckel.com/posts/the-power-of-composition-with-css-variables/
+   */
+  --site-primary-hue-saturation: 167 68%;
+  --site-primary-hue-saturation-light: 167 56%; /* do we really need this extra one? */
+  --site-color-favorite-background: #f6fdfd;
+  --site-color-tooltip: #fff;
+  --site-color-tooltip-background: #353738;
+  --site-color-svg-icon-favorite: #e9669e;
+  --site-color-checkbox-checked-bg: hsl(167deg 56% 73% / 25%);
+  --site-color-feedback-background: #fff;
+  --docusaurus-highlighted-code-line-bg: rgb(0 0 0 / 10%);
+  /* Use a darker color to ensure contrast, ideally we don't need important */
+  --ifm-breadcrumb-color-active: var(--ifm-color-primary-darker) !important;
+  --ifm-menu-color-active: var(--ifm-color-primary-darker) !important;
+}
 
 .heroBanner {
   padding: 4rem 0;
@@ -22,5 +40,19 @@
   justify-content: center;
 }
 
-.converter-container {
+div[class^='announcementBar_'] {
+  --site-announcement-bar-stripe-color1: hsl(
+          var(--site-primary-hue-saturation) 90%
+  );
+  --site-announcement-bar-stripe-color2: hsl(
+          var(--site-primary-hue-saturation) 95%
+  );
+  background: repeating-linear-gradient(
+          35deg,
+          var(--site-announcement-bar-stripe-color1),
+          var(--site-announcement-bar-stripe-color1) 20px,
+          var(--site-announcement-bar-stripe-color2) 10px,
+          var(--site-announcement-bar-stripe-color2) 40px
+  );
+  font-weight: bold;
 }
