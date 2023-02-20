@@ -169,6 +169,10 @@ const config = {
                 to: '/blog',
               },
               {
+                label: 'Email',
+                to: 'https://mailhide.io/e/gKKI4Das',
+              },
+              {
                 label: 'Steam',
                 href: 'https://steamcommunity.com/id/xyspg/'
               },
