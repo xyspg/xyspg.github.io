@@ -1,7 +1,7 @@
 ---
 draft: false
 authors: xyspg
-tags: [技术向]
+tags: [技术向,教程]
 title: 为 Docusaurus 博客页面添加评论区
 enableComments: true
 ---
@@ -94,7 +94,7 @@ npm run swizzle
 ```
 
 选择你的主题配置文件（默认为 theme-classic)
-```bash
+```shell
 > docusaurus swizzle
 
 ? Select a theme to swizzle: › - Use arrow-keys. Return to submit.
@@ -105,7 +105,7 @@ npm run swizzle
 ```
 
 向下找到 `BlogPostItem`，回车确认
-```bash
+```shell
 BlogListPage (Unsafe)
     BlogListPaginator (Unsafe)
 ❯   BlogPostItem (Unsafe)
@@ -115,7 +115,7 @@ BlogListPage (Unsafe)
 ```
 
 回车选择  `Wrap` 和  `YES: I know what I am doing!`
-```bash
+```shell
 ? Which swizzle action do you want to do? › - Use arrow-keys. Return to submit.
 ❯   Wrap (Unsafe)
     Eject (Unsafe)
