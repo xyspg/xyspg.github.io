@@ -37,8 +37,10 @@
   background-image: linear-gradient(120deg, #fdfbfb 0%, #ebedee 100%);
 }
 
-.hero__title, .hero__subtitle {
+.homepage-heading {
   color: black;
+}
+.hero__title, .hero__subtitle {
   font-family: 'M PLUS 1p', sans-serif;
 }
 .hero__title {
