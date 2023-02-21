@@ -7,7 +7,7 @@ const style = {
     backgroundClip: "text",
     WebkitBackgroundClip: "text",
     WebkitTextFillColor: "transparent",
-    fontFamily: "PingFang SC",
+    fontFamily: "PingFang SC, Calibri, sans-serif",
     fontSize: "260px",
     fontWeight: 900,
     textAlign: "center",
