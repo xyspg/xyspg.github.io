@@ -27,10 +27,7 @@ const config = {
     locales: ['zh']
   },
   scripts: [
-    {
-      src: '//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js',
-      async: true,
-    },
+
   ],
   presets: [
     [
@@ -97,11 +94,11 @@ const config = {
             items: [
               {
                 label: 'AI搜题（GPT-3）',
-                href: 'https://gpt.xyspg.live'
+                href: 'https://gpt.xyspg.moe'
               },
               {
                 label: 'ELA Annotator',
-                href: 'https://annotator.xyspg.live'
+                href: 'https://annotator.xyspg.moe'
               },
               {
                 label: '随机事件生成器',
@@ -145,11 +142,11 @@ const config = {
             items: [
               {
                 label: 'AI搜题（GPT-3）',
-                href: 'https://gpt.xyspg.live'
+                href: 'https://gpt.xyspg.moe'
               },
               {
                 label: 'ELA Annotator',
-                href: 'https://annotator.xyspg.live'
+                href: 'https://annotator.xyspg.moe'
               },
               {
                 label: '随机事件生成器',
