@@ -4,7 +4,6 @@ import BlogPostItem from '@theme-original/BlogPostItem';
 import GiscusComponent from '@site/src/components/GiscusComponent';
 import useIsBrowser from '@docusaurus/useIsBrowser';
 
-
 export default function BlogPostItemWrapper(props) {
     const { metadata } = useBlogPost()
     const isBrowser = useIsBrowser();
@@ -19,11 +18,11 @@ export default function BlogPostItemWrapper(props) {
     }
 
     return (
-    <>
-      <BlogPostItem {...props} />
-        {(enableComments && !isCurrentUrlBlog) && (
-            <GiscusComponent />
-        )}
-    </>
-  );
+        <>
+            <BlogPostItem {...props} />
+            {(enableComments && !isCurrentUrlBlog) && (
+                <GiscusComponent />
+            )}
+        </>
+    );
 }
