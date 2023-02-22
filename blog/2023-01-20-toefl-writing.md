@@ -3,10 +3,11 @@ title: 两篇写的还说得过去的托福写作
 authors: xyspg
 tags: [TOEFL, 学习]
 enableComments: true
-
 ---
+
 随便传点什么东西  
 虽然说还是写的不咋地
+
 <!--truncate-->
 
 ## 因为互联网的出现，教育孩子是否比过去更困难？
@@ -34,4 +35,3 @@ Thirdly, if the government allows citizens to use the free Internet, it reduces 
 Although in this day and age, the Internet may be as important as other services such as building roads, since a lot of activity is needed to be done online. However, people in the past 30 years or 50 years never experienced the Internet, and they still enjoyed the convenience from the traditional telephone, newspaper, or radios. And these things are still not outdated today. Losing the availability of the Internet only suppresses some Internet-based services such as Uber. But nowadays, people are still able to call a taxi in the traditional way.
 
 All in all, from various dimensions, we can see that the government should not make Internet access to all citizens at no cost.
-

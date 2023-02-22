@@ -1,8 +1,11 @@
 ---
 sidebar_position: 3
 ---
+
 # Latex 模板
+
 ## MLA
+
 ```latex
 \documentclass[12pt]{article}
 
@@ -30,14 +33,14 @@ sidebar_position: 3
 %
 \usepackage{fancyhdr}
 \pagestyle{fancy}
-\lhead{} 
-\chead{} 
-% \rhead{Last \thepage} 
-\lfoot{} 
-\cfoot{} 
-\rfoot{} 
-\renewcommand{\headrulewidth}{0pt} 
-\renewcommand{\footrulewidth}{0pt} 
+\lhead{}
+\chead{}
+% \rhead{Last \thepage}
+\lfoot{}
+\cfoot{}
+\rfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
 %To make sure we actually have header 0.5in away from top edge
 %12pt is one-sixth of an inch. Subtract this from 0.5in to get headsep value
 \setlength\headsep{0.333in}
@@ -82,6 +85,7 @@ This is a checking of if it can display well
 ```
 
 ## 中文模板
+
 ```
 \documentclass{article}
 \usepackage{CJKutf8}

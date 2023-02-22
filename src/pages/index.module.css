@@ -40,20 +40,19 @@
   justify-content: center;
 }
 
-div[class^='announcementBar_'] {
+div[class^="announcementBar_"] {
   --site-announcement-bar-stripe-color1: hsl(
-          var(--site-primary-hue-saturation) 90%
+    var(--site-primary-hue-saturation) 90%
   );
   --site-announcement-bar-stripe-color2: hsl(
-          var(--site-primary-hue-saturation) 95%
+    var(--site-primary-hue-saturation) 95%
   );
   background: repeating-linear-gradient(
-          35deg,
-          var(--site-announcement-bar-stripe-color1),
-          var(--site-announcement-bar-stripe-color1) 20px,
-          var(--site-announcement-bar-stripe-color2) 10px,
-          var(--site-announcement-bar-stripe-color2) 40px
+    35deg,
+    var(--site-announcement-bar-stripe-color1),
+    var(--site-announcement-bar-stripe-color1) 20px,
+    var(--site-announcement-bar-stripe-color2) 10px,
+    var(--site-announcement-bar-stripe-color2) 40px
   );
   font-weight: bold;
 }
-
