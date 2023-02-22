@@ -70,7 +70,14 @@ const config = {
         textColor: '#091E42',
         isCloseable: true,
       },
+      algolia:{
+        appId: 'QKST3Q4MRA',
+        apiKey: 'c2bb4a37c21688617fb3e52e31d710b5',
+        indexName: 'xyspg',
+        debug: false,
+        contextualSearch: true,
 
+      },
       navbar: {
         hideOnScroll: true,
         title: 'xyspg 的小窝',
