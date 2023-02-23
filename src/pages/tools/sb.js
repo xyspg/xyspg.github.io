@@ -1,9 +1,9 @@
-import Link from "@docusaurus/Link";
 import Layout from "@theme/Layout";
-import styles from "../index.module.css";
-import React, { useState, createContext, useEffect } from "react";
+import React, { useState } from "react";
+
 function FullscreenH1() {
   const [isFullscreen, setIsFullscreen] = useState(false);
+
   function handleFullscreenClick() {
     setIsFullscreen(true);
     document.documentElement.requestFullscreen();

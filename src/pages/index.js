@@ -1,6 +1,5 @@
 import React from "react";
 import clsx from "clsx";
-import Link from "@docusaurus/Link";
 import useDocusaurusContext from "@docusaurus/useDocusaurusContext";
 import Layout from "@theme/Layout";
 import HomepageFeatures from "@site/src/components/HomepageFeatures";
@@ -12,7 +11,7 @@ function HomepageHeader() {
     <header className={clsx("hero hero--primary", styles.heroBanner)}>
       <div className="container">
         <span className="homepage-heading">
-          <h1 className="hero__title">{siteConfig.title}</h1>
+          <h1 className="hero__title">xyspg 的小窝</h1>
           <p className="hero__subtitle">{siteConfig.tagline}</p>
         </span>
       </div>

@@ -6,9 +6,9 @@ const darkCodeTheme = require("prism-react-renderer/themes/dracula");
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "xyspg 的小窝",
+  title: "xyspg",
   tagline: "美味しいは嬉しいです！",
-  url: "https://xyspg.github.io",
+  url: "https://xyspg.moe",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
@@ -17,14 +17,14 @@ const config = {
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
   organizationName: "xyspg", // Usually your GitHub org/username.
-  projectName: "xyspg", // Usually your repo name.
+  projectName: "xyspg.github.io", // Usually your repo name.
   trailingSlash: false,
   // Even if you don't use internalization, you can use this field to set useful
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: "zh",
-    locales: ["zh"],
+    defaultLocale: "zh-cn",
+    locales: ["zh-cn"],
   },
   scripts: [],
   presets: [
