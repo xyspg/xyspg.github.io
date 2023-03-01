@@ -43,6 +43,7 @@
 .hero__title,
 .hero__subtitle {
   font-family: "M PLUS 1p", sans-serif;
+  color: black;
 }
 .hero__title {
   font-size: 2.7rem;
