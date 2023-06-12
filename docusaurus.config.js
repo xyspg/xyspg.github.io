@@ -102,10 +102,6 @@ const config = {
                 href: "https://bdfz.app",
               },
               {
-                label: "ELA Annotator",
-                href: "https://annotator.xyspg.moe",
-              },
-              {
                 label: "随机事件生成器",
                 href: "/tools/random",
               },
@@ -148,10 +144,6 @@ const config = {
               {
                 label: "BDFZ AI",
                 href: "https://bdfz.app",
-              },
-              {
-                label: "ELA Annotator",
-                href: "https://annotator.xyspg.moe",
               },
               {
                 label: "随机事件生成器",
