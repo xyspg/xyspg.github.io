@@ -102,10 +102,6 @@ const config = {
                 href: "https://bdfz.app",
               },
               {
-                label: "随机事件生成器",
-                href: "/tools/random",
-              },
-              {
                 label: "特殊字符转换器",
                 href: "/tools/converter",
               },
@@ -144,10 +140,6 @@ const config = {
               {
                 label: "BDFZ AI",
                 href: "https://bdfz.app",
-              },
-              {
-                label: "随机事件生成器",
-                to: "/tools/random",
               },
               {
                 label: "特殊字符转换器",
