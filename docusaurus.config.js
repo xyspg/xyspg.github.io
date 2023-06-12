@@ -55,7 +55,10 @@ const config = {
       }),
     ],
   ],
-
+  markdown: {
+    mermaid: true,
+  },
+  themes: ["@docusaurus/theme-mermaid"],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -95,8 +98,8 @@ const config = {
             position: "left",
             items: [
               {
-                label: "AI搜题（GPT-3）",
-                href: "https://gpt.xyspg.moe",
+                label: "BDFZ AI",
+                href: "https://bdfz.app",
               },
               {
                 label: "ELA Annotator",
@@ -143,8 +146,8 @@ const config = {
             title: "小工具",
             items: [
               {
-                label: "AI搜题（GPT-3）",
-                href: "https://gpt.xyspg.moe",
+                label: "BDFZ AI",
+                href: "https://bdfz.app",
               },
               {
                 label: "ELA Annotator",
@@ -177,7 +180,7 @@ const config = {
               },
               {
                 label: "GitHub",
-                href: "https://github.com/facebook/docusaurus",
+                href: "https://github.com/xyspg",
               },
             ],
           },
