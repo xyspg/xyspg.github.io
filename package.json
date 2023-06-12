@@ -15,6 +15,7 @@
   },
   "dependencies": {
     "@auth0/auth0-react": "^2.0.0",
+    "@dipakparmar/docusaurus-plugin-umami": "^2.1.0",
     "@docusaurus/core": "^2.4.1",
     "@docusaurus/plugin-google-gtag": "^2.4.1",
     "@docusaurus/preset-classic": "^2.4.1",

@@ -65,7 +65,7 @@ const config = {
       announcementBar: {
         id: "announcementBar",
         content:
-          'xyspg 的小窝启用 <a target="_blank" rel="noopener noreferrer" href="blog/2023/02/19/moe/Upgrading%20to%20.moe%20Domain">.moe</a> 域名啦(o^^o)',
+          '文档信息，一键搜 —— 欢迎试用 <a target="_blank" rel="noopener" href="https://bdfz.app">BDFZ AI</a> (o^^o)',
         backgroundColor: "#fafbfc",
         textColor: "#091E42",
         isCloseable: true,
@@ -184,6 +184,18 @@ const config = {
         appUrl: "https://app.posthog.com", // optional
         enableInDevelopment: false, // optional
       },
+      "@dipakparmar/docusaurus-plugin-umami",
+      /** @type {import('@dipakparmar/docusaurus-plugin-umami').Options} */
+      ({
+        websiteID: "your-website-id", // Required
+        analyticsDomain: "analytics.xyspg.moe", // Required
+        scriptName: "", // Optional
+        dataHostURL: "", // Optional
+        dataAutoTrack: true, // Optional
+        dataDoNoTrack: true, // Optional
+        dataCache: true, // Optional
+        dataDomains: "xyspg.moe", // comma separated list of domains, *Recommended*
+      }),
     ],
   ],
 };
