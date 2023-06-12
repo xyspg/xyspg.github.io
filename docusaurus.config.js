@@ -184,18 +184,6 @@ const config = {
         appUrl: "https://app.posthog.com", // optional
         enableInDevelopment: false, // optional
       },
-      "@dipakparmar/docusaurus-plugin-umami",
-      /** @type {import('@dipakparmar/docusaurus-plugin-umami').Options} */
-      ({
-        websiteID: "your-website-id", // Required
-        analyticsDomain: "analytics.xyspg.moe", // Required
-        scriptName: "", // Optional
-        dataHostURL: "", // Optional
-        dataAutoTrack: true, // Optional
-        dataDoNoTrack: true, // Optional
-        dataCache: true, // Optional
-        dataDomains: "xyspg.moe", // comma separated list of domains, *Recommended*
-      }),
     ],
   ],
 };
